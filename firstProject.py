@@ -9,3 +9,12 @@ num2 = 6
 num1 += 5
 
 print(num1)
+
+
+print()
+print()
+print()
+print()
+print()
+print()
+print()
