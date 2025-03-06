@@ -17,8 +17,3 @@ elif 18.5 <= body_mass_index < 25:
     print("Your body mass index is", body_mass_index, "You are okay!")
 elif body_mass_index < 18.5:
     print("Your body mass index is", body_mass_index, "EAT MORE, STUPID BITCH!")
-
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
